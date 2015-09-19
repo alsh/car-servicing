@@ -2,7 +2,9 @@
 * Схема труб системы охлаждения
 
 [[http://toyotapartscatalog.com/media/images/lexus/c6/c61ca2e9cffbf5ffb95e1e1b080f931a.png][87-16: Heating & air conditioning - water piping]] вход к печке, соединения с дет. 11181
+
 [[http://toyotapartscatalog.com/media/images/lexus/cc/cc39967b414332d9a4263485229e9204.png][11-04: Cylinder head]] дет. 11181
+
 [[http://toyotapartscatalog.com/media/images/lexus/05/05f3807cefa3424f51017c75a0609b3a.png][16-03: Radiator & water outlet]] шланг от дет. 11181 - деталь 16264
 
 Деталь 11181 изображена в rm684e, на стр. EM-35
